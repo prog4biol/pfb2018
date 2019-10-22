@@ -10,7 +10,7 @@ Write a simple De Bruijn graph-based assembler for DNA sequences that takes kmer
 
 **TA**: Lukas Kuderna
 
-**Group Name**: Vagina
+**Group Name**: \*\*\*\*\*\*\*
 
 **Students**:
 
